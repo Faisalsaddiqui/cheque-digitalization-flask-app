@@ -43,7 +43,7 @@ Open your browser and go to:
 ```
 http://localhost:5000
 ```
-**Usage**
+# Usage
 Launch the application in your browser.
 Upload a scanned image of a cheque.
 The app will extract and classify the cheque fields.

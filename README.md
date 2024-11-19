@@ -54,21 +54,25 @@ Project Structure
 php
 Copy code
 Cheque-Digitization-App/  
+
+
 │  
 ├── templates/         # HTML templates  
 ├── static/            # CSS files and other static assets  
 ├── app.py             # Main Python application file  
 ├── requirements.txt   # Python library dependencies  
 ├── README.md          # Project documentation  
-Contributing
+
+
+**Contributing**
 We welcome contributions to enhance this project. Here's how you can help:
 
-Fork the repository.
+**Fork the repository.**
 Create a new branch for your feature or bug fix.
 bash
 Copy code
 git checkout -b feature-name  
-Commit your changes.
+**Commit your changes.**
 bash
 Copy code
 git commit -m "Description of changes"  

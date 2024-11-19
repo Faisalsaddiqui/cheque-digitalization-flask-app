@@ -72,7 +72,9 @@ git checkout -b feature-name
 git commit -m "Description of changes"
 ```
 **Push your changes and create a pull request.**
-
+```
+git push origin branch-name
+```
 **Acknowledgments**:
 Special thanks to the open-source community for providing tools and resources that made this project possible.
 

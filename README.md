@@ -1,4 +1,4 @@
-# Cheque Digitization App
+# Cheque Digitization App 💳 📝 🌐
 ## Overview
 Cheque Digitization App is a web-based application that processes and digitizes cheque information. It identifies and classifies key cheque fields, such as date, payee, amount, and account details, and automatically populates a form with the extracted data. This application streamlines cheque processing, improving accuracy and saving time.
 

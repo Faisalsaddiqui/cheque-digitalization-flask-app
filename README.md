@@ -30,17 +30,17 @@ Use the following command to install all required Python libraries:
 ```
 pip install -r requirements.txt
 ```
-Run the Application
+**Run the Application**
 Start the app using the command:
 ```
 python app.py
 ```
-Access the Application
+**Access the Application**
 Open your browser and go to:
 ```
 http://localhost:5000
 ```
-Usage
+**Usage**
 Launch the application in your browser.
 Upload a scanned image of a cheque.
 The app will extract and classify the cheque fields.

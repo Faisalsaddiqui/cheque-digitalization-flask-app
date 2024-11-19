@@ -21,29 +21,25 @@ Cheque Digitization App is a web-based application that processes and digitizes 
 **Libraries:** Required Python libraries are listed in requirements.txt.
 Installation
 Clone the Repository
-
-bash
-Copy code
-git clone https://github.com/yourusername/Cheque-Digitization-App.git  
+```
+git clone https://github.com/yourusername/Cheque-Digitization-App.git
+```
 cd Cheque-Digitization-App  
 Install Dependencies
 Use the following command to install all required Python libraries:
-
-bash
-Copy code
-pip install -r requirements.txt  
+```
+pip install -r requirements.txt
+```
 Run the Application
 Start the app using the command:
-
-bash
-Copy code
-python app.py  
+```
+python app.py
+```
 Access the Application
 Open your browser and go to:
-
-arduino
-Copy code
-http://localhost:5000  
+```
+http://localhost:5000
+```
 Usage
 Launch the application in your browser.
 Upload a scanned image of a cheque.
@@ -55,27 +51,26 @@ php
 Copy code
 Cheque-Digitization-App/  
 
-
+```
 │  
 ├── templates/         # HTML templates  
 ├── static/            # CSS files and other static assets  
 ├── app.py             # Main Python application file  
 ├── requirements.txt   # Python library dependencies  
 ├── README.md          # Project documentation  
-
+```
 
 **Contributing**:
 We welcome contributions to enhance this project. Here's how you can help:
 
 **Fork the repository.**
 Create a new branch for your feature or bug fix.
-bash
-Copy code
-git checkout -b feature-name  
+```
+git checkout -b feature-name
+```
 **Commit your changes.**
-bash
-Copy code
-git commit -m "Description of changes"  
+git commit -m "Description of changes"
+```
 Push your changes and create a pull request.
 **License**:
 This project is licensed under the MIT License. For more details, see the LICENSE file.

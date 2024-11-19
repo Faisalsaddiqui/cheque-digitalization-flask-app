@@ -71,7 +71,6 @@ git commit -m "Description of changes"
 Push your changes and create a pull request.
 
 **License**:
-
 This project is licensed under the MIT License. For more details, see the LICENSE file.
 
 **Acknowledgments**:

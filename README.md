@@ -4,11 +4,16 @@ Cheque Digitization App is a web-based application that processes and digitizes 
 
 **Features**:
 Cheque Field Classification: Automatically identifies key fields from a cheque image.
+
 Form Autofill: Extracted information is directly populated into a structured form.
+
 User-Friendly Interface: Simple and intuitive interface built with HTML and CSS.
+
 Python Backend: Robust backend for processing and classifying cheque data.
+
 Easy Setup: Lightweight and straightforward setup for quick deployment.
-Technologies Used
+**Technologies Used**
+
 Frontend: HTML, CSS
 Backend: Python
 Libraries: Required Python libraries are listed in requirements.txt.

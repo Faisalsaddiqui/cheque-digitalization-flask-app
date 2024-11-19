@@ -23,8 +23,8 @@ Installation
 Clone the Repository
 ```
 git clone https://github.com/yourusername/Cheque-Digitization-App.git
+cd Cheque-Digitization-App
 ```
-cd Cheque-Digitization-App  
 Install Dependencies
 Use the following command to install all required Python libraries:
 ```

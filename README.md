@@ -12,13 +12,13 @@ Cheque Digitization App is a web-based application that processes and digitizes 
 - **Python Backend:** Robust backend for processing and classifying cheque data.
 
 - **Easy Setup:** Lightweight and straightforward setup for quick deployment.
-- **Technologies Used**
+**Technologies Used**
 
-- **Frontend:** HTML, CSS
+**Frontend:** HTML, CSS
 
-- **Backend:** Python
+**Backend:** Python
 
-- **Libraries:** Required Python libraries are listed in requirements.txt.
+**Libraries:** Required Python libraries are listed in requirements.txt.
   
 Clone the repository
 ```

@@ -59,7 +59,7 @@ Submit the form or export the data for further use.
 **Contributing**:
 We welcome contributions to enhance this project. Here's how you can help:
 
-**Fork the repository.**
+**Fork the repository:**
 Create a new branch for your feature or bug fix.
 ```
 git checkout -b feature-name

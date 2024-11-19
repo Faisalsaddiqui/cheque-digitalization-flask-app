@@ -75,7 +75,5 @@ git commit -m "Description of changes"
 ```
 git push origin branch-name
 ```
-**Acknowledgments**:
-Special thanks to the open-source community for providing tools and resources that made this project possible.
 
 

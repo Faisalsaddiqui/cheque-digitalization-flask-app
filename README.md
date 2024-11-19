@@ -13,7 +13,7 @@ Cheque Digitization App is a web-based application that processes and digitizes 
 
 - **Easy Setup:** Lightweight and straightforward setup for quick deployment.
   
-**Technologies Used**
+## Technologies Used
 
 **Frontend:** HTML, CSS
 

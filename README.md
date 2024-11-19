@@ -64,7 +64,7 @@ Cheque-Digitization-App/
 ├── README.md          # Project documentation  
 
 
-**Contributing**
+**Contributing**:
 We welcome contributions to enhance this project. Here's how you can help:
 
 **Fork the repository.**

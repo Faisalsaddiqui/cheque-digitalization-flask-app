@@ -46,10 +46,6 @@ Upload a scanned image of a cheque.
 The app will extract and classify the cheque fields.
 Review the extracted data in the form and make any necessary adjustments.
 Submit the form or export the data for further use.
-Project Structure
-php
-Copy code
-Cheque-Digitization-App/  
 
 ```
 │  

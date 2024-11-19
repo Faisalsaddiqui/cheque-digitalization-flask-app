@@ -65,6 +65,7 @@ Create a new branch for your feature or bug fix.
 git checkout -b feature-name
 ```
 **Commit your changes.**
+```
 git commit -m "Description of changes"
 ```
 Push your changes and create a pull request.

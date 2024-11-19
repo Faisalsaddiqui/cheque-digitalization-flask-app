@@ -1,8 +1,8 @@
-#Cheque Digitization App
-Overview
+# Cheque Digitization App
+**Overview**
 Cheque Digitization App is a web-based application that processes and digitizes cheque information. It identifies and classifies key cheque fields, such as date, payee, amount, and account details, and automatically populates a form with the extracted data. This application streamlines cheque processing, improving accuracy and saving time.
 
-Features
+**Features**
 Cheque Field Classification: Automatically identifies key fields from a cheque image.
 Form Autofill: Extracted information is directly populated into a structured form.
 User-Friendly Interface: Simple and intuitive interface built with HTML and CSS.
@@ -66,10 +66,10 @@ bash
 Copy code
 git commit -m "Description of changes"  
 Push your changes and create a pull request.
-License
+**License**
 This project is licensed under the MIT License. For more details, see the LICENSE file.
 
-Acknowledgments
+**Acknowledgments**
 Special thanks to the open-source community for providing tools and resources that made this project possible.
 
 

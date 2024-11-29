@@ -60,7 +60,7 @@ Submit the form or export the data for further use.
 ├── README.md          # Project documentation  
 ```
 
-## Contributing:
+## Contributing
 We welcome contributions to enhance this project. Here's how you can help:
 
 **Fork the repository:**

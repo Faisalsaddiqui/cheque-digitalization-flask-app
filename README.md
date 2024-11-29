@@ -20,6 +20,7 @@ Cheque Digitization App is a web-based application that processes and digitizes 
 - **Backend:** Python
 
 - **Libraries:** Required Python libraries are listed in requirements.txt
+## How to run
   
 **Clone the repository**
 ```

@@ -30,7 +30,7 @@ Navigate to directory
 cd Cheque-Digitization-App
 ```
 **Install Dependencies:**
-Use the following command to install all required Python libraries:
+Use the following command to install all required Python libraries
 ```
 pip install -r requirements.txt
 ```

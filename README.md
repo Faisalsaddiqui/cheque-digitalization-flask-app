@@ -21,11 +21,11 @@ Cheque Digitization App is a web-based application that processes and digitizes 
 
 - **Libraries:** Required Python libraries are listed in requirements.txt
   
-Clone the repository
+**Clone the repository**
 ```
 git clone https://github.com/yourusername/Cheque-Digitization-App.git
 ```
-Navigate to directory
+**Navigate to directory**
 ```
 cd Cheque-Digitization-App
 ```

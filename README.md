@@ -35,12 +35,12 @@ Use the following command to install all required Python libraries:
 pip install -r requirements.txt
 ```
 **Run the Application**
-Start the app using the command:
+Start the app using the command
 ```
 python app.py
 ```
 **Access the Application**
-Open your browser and go to:
+Open your browser and go to
 ```
 http://localhost:5000
 ```
@@ -64,7 +64,7 @@ Submit the form or export the data for further use.
 We welcome contributions to enhance this project. Here's how you can help:
 
 **Fork the repository:**
-Create a new branch for your feature or bug fix.
+Create a new branch for your feature or bug fix
 ```
 git checkout -b feature-name
 ```
@@ -72,7 +72,7 @@ git checkout -b feature-name
 ```
 git commit -m "Description of changes"
 ```
-**Push your changes and create a pull request.**
+**Push your changes and create a pull request**
 ```
 git push origin branch-name
 ```
